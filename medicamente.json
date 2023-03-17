@@ -1,0 +1,18 @@
+{
+    "1": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "1",
+        "nume": "sdfg",
+        "producator": "sdfg",
+        "pret": 23.0,
+        "necesitateReteta": "da"
+    },
+    "2": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "2",
+        "nume": "dsfhfjhgj",
+        "producator": "sdfghj",
+        "pret": 56.0,
+        "necesitateReteta": "da"
+    }
+}

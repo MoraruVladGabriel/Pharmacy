@@ -1,0 +1,10 @@
+{
+    "2": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "2",
+        "nume": "paracetamol",
+        "producator": "maxos",
+        "pret": 23,
+        "necesitateReteta": "nu"
+    }
+}
